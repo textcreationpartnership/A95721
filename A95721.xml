@@ -1,0 +1,556 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Church reformation, a discourse pointing at some vanities in divine service. Delivered in two sermons at Bridgnorth: Sept. 30. 1660. Being the Lords Day; and the time of the assizes held there for the county of Salop. By Mich: Thomas, rector of Stockton in the same county.</title>
+            <author>Thomas, Michael, rector of Stockton.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 78 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95721</idno>
+            <idno type="STC">Wing T968</idno>
+            <idno type="STC">Thomason E1055_17</idno>
+            <idno type="STC">ESTC R203930</idno>
+            <idno type="EEBO-CITATION">99863703</idno>
+            <idno type="PROQUEST">99863703</idno>
+            <idno type="VID">115914</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95721)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115914)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 156:E1055[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Church reformation, a discourse pointing at some vanities in divine service. Delivered in two sermons at Bridgnorth: Sept. 30. 1660. Being the Lords Day; and the time of the assizes held there for the county of Salop. By Mich: Thomas, rector of Stockton in the same county.</title>
+                  <author>Thomas, Michael, rector of Stockton.</author>
+               </titleStmt>
+               <extent>[8], 44 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Jo: Martin, Ja: Allestry, and Tho: Dicas, and are to be sold at the Bell in St. Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan: 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Amanda Flynn</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115914:1" rendition="simple:additions"/>
+            <p>CHURCH Reformation, A DISCOURSE Pointing at ſome VANITIES in <hi>DIVINE SERVICE.</hi> Delivered in Two SERMONS at <hi>Bridg<g ref="char:EOLhyphen"/>north: Sept.</hi> 30. 1660. Being the Lords Day; and the time of the Aſsizes held there for the County of <hi>Salop.</hi> By MICH: THOMAS, Rector of <hi>Stockton</hi> in the ſame County.</p>
+            <q>
+               <p>
+                  <hi>Ye ſhall keep my Sabbaths, and Reverence my Sanctuary: I am the Lord,</hi>
+               </p> 
+               <bibl>Levit. 19. 30.</bibl>
+            </q>
+            <q>
+               <p>
+                  <hi>Si quis dicat Domum Dei contemptibilem eſſe; &amp; Conventus qui in ea ce<g ref="char:EOLhyphen"/>lebrantur, Anathema ſit:</hi> Concilium Gangrenſe, Canone quinto.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Jo: Martin, Ja: Alleſtry,</hi> and <hi>Tho: Dicas,</hi> and are to be ſold at the Bell in St. <hi>Pauls</hi> Church-yard, 1661.</p>
+            <pb facs="tcp:115914:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="3" facs="tcp:115914:2"/>
+            <head>
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>ECCLES. 5. 1.</bibl>
+                  <p>Keep thy foot when thou goeſt to the Houſe of God, and be more ready to hear, then to give the Sacrifice of Fools; For they conſider not that they do evil.</p>
+               </q>
+            </epigraph>
+            <div type="part">
+               <p>SOme of thoſe Learned men, who have im<g ref="char:EOLhyphen"/>ployed <note place="margin" type="runSum">The Preface.</note> their Talent of ſacred knowledge in the Expoſition of this Book, have made a critical Obſervation upon the Inſcription of it. They tell us, that according to the Origi<g ref="char:EOLhyphen"/>nal, we ſhould read the firſt Verſe of it thus.</p>
+               <p>
+                  <hi>The words of the Preachereſs, the Son of</hi> David, <hi>King in</hi> Jeruſalem: But what? Was <hi>Solomon</hi> the Son of <hi>David</hi> a Preachereſs? How ſo? they endeavour to aſſoyl the doubt thus; Either by ſupplying the word <hi>Sapientia</hi> or <hi>Anima.</hi>
+               </p>
+               <p>That in this Book, <hi>The Wiſedom of</hi> Solomon <hi>is the Preachereſs,</hi> inſtructing the Sons of men in that diffi<g ref="char:EOLhyphen"/>cult Queſtion, <hi>de ſummo bono;</hi> and directing them towards the attainment of the <hi>Chiefeſt Good.</hi>
+               </p>
+               <p>Or, the Soul of <hi>Solomon</hi> is <hi>The Preachereſs;</hi> that is, Solomon <hi>is delivering the various Obſervations which he had made upon the world heartily and experimentally.</hi> The Text w<hi rend="sup">ch</hi> he choſe was, <hi>Vanity of Vanities,</hi> which he proves and proſecutes by convincing Arguments,
+<pb n="4" facs="tcp:115914:3"/> and in ſuch a Method and Manner, as St. <hi>Paul</hi> after<g ref="char:EOLhyphen"/>ward inſtructed his Son <hi>Timothy</hi> in the Art of Prea<g ref="char:EOLhyphen"/>ching.</p>
+               <p>I made uſe of this Criticiſme for a Preface to my Diſcourſe, <hi>Captare Benevolentiam;</hi> to beſpeak and prepare your favourable attention: for here are thoſe Three things which (according to the Orator) are moſt available to gain an Audience. Here is, Firſt, Eloquence in the Authour: The Wiſdom of God ſpeaking in, and by <hi>Solomon.</hi> Here is, Secondly, Im<g ref="char:EOLhyphen"/>portance in the matter. St. <hi>Ambroſe,</hi> and St. <hi>Gregory</hi> of <hi>Nyſſen</hi> ſay, This Book is a Treaſury of Divine Knowledge; the Doctrine of it may ſerve to wean us from the love of theſe earthly things, and further us in ſecuring our intereſt in the things of Heaven. Here is, Thirdly, Perſpicuity and Brevity in the Method. This great Argument concerning the Vanity of the Creature, is handled Succinctly and Demonſtrative<g ref="char:EOLhyphen"/>ly, ſo as to convince the judgements, and to ſtop the mouths of ſuch as have the greateſt love and affection for the world.</p>
+               <p>Suppoſing then this whole Book to be but one Sermon, I muſt intreat you to look upon the words which I have ſelected for the Text, as upon one par<g ref="char:EOLhyphen"/>ticular Note of it.</p>
+               <p>In the former Chapters <hi>Solomon</hi> declares the ſeve<g ref="char:EOLhyphen"/>ral Vanities which he had obſerved in other things. In this Chapter he points at thoſe Vanities which are incident to Divine Service. It pleaſed the Lord to appoint and enable <hi>Solomon</hi> to be the Builder of his Temple; It pleaſed him alſo to inſpire and direct <hi>Solomon</hi> to be the Reformer of the abuſes of his Tem<g ref="char:EOLhyphen"/>ple:
+<pb n="5" facs="tcp:115914:3"/> So that from him we may expect a perfect Pat<g ref="char:EOLhyphen"/>tern or Plat-form of <hi>Church Reformation.</hi>
+               </p>
+               <p>We have had of late much talk and high pretenti<g ref="char:EOLhyphen"/>ons by ſome for <hi>A Thorough Reformation</hi> of this Church of <hi>England;</hi> but the Lord knows, and the Lord give them grace to know, and to conſider, that (beſide nothing was done) the face of Divine Wor<g ref="char:EOLhyphen"/>ſhip was rendered more deformed to the wo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld, and left more ill-featur'd then when they firſt undertook the cure; and the ways they proceeded by we<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e crook<g ref="char:EOLhyphen"/>ed, and improbable to produce ſuch a bleſſed effect.</p>
+               <p>It was not likely to Reform a Church by ejecting learned and faithful Miniſters; by decrying a pious Liturgy, and Form of Divine Worſhip; by leaving Churches utterly void, and no Miniſters to attend their deſolate Congregations in their holy things. But I ſhall chuſe rather to mourn in ſecret, then to in<g ref="char:EOLhyphen"/>large a publike complaint againſt thoſe unhappy miſ<g ref="char:EOLhyphen"/>carriages.</p>
+               <p>That there are corruptions crept into the Houſe of God; and that there are ſtill ſome very conſiderable, and very deplorable Vanities in our Divine Service, is too viſible and apparent; and by the good provi<g ref="char:EOLhyphen"/>dence of God, I am here this day as <hi>Solomons Amanu<g ref="char:EOLhyphen"/>enſis;</hi> as one that hath taken ſome ſhort Note out of his great Sermon, and in an humble way to give you ſome notice of them.</p>
+               <p>Since we are ſo happily met together on the Lords Day, and in the Lords Houſe, I could not conceive any Argument would be more proper, then to diſ<g ref="char:EOLhyphen"/>courſe of that Divine Service which we ought to per<g ref="char:EOLhyphen"/>form to God as on theſe days, and in theſe places.
+<pb n="6" facs="tcp:115914:4"/> I am ſo charitable as to hope, that there is not one ſoul in this Congregation ſo vain, but deſires to ſerve the Lo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d reverently and acceptably, and to obſerve the preſcriptions of his moſt holy Will, both for the matter and form of it; and the doctrine of this text will direct us in both the parts of it. I muſt tell you, that I have not managed my meditations on this ar<g ref="char:EOLhyphen"/>gument ſo as to pleaſe all, but as near as I could, to edifie all. I durſt not neglect my duty, nor be defi<g ref="char:EOLhyphen"/>cient to that providential Call which ſummoned me to this publique employment; and I hope no one will be diſpleaſed at ſuch a plain and faithful diſ<g ref="char:EOLhyphen"/>courſe; by which I endeavour to deliver my own ſoul, and to further the ſalvation of his. And ſo I proceed to the Explication and Diviſion of the text.</p>
+               <p>I do not obſerue any conſiderable variety in the ſe<g ref="char:EOLhyphen"/>veral Tranſlations. <hi>Arias Montanus</hi> renders the He<g ref="char:EOLhyphen"/>brew, by <hi>Quando ibis,</hi> When thou ſhalt go. The Lxx. by <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Quum vadis,</hi> When thou doſt go. The Vulga<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Latine by <hi>Ingrediens Domum Dei,</hi> When thou art entring into the houſe of God.</p>
+               <p>But ſome may ſay, Muſt all our care be taken as we are going to, or, as we are entring into the houſe of God, as theſe Tranſlations import? And indeed the Syriack and the Arabick import no more.</p>
+               <p>I anſwer, It is an uſual Trope in Scripture, <hi>Ex anteceder te intelligere conſequens;</hi> by the antecedent to collect the conſequent; and the Trope muſt have place here. This counſel of <hi>Solomon</hi> is not to be un<g ref="char:EOLhyphen"/>derſtood of things to be done when we are going to the houſe of God; but what we are to do when we are come thither. There may be ſome preparatory
+<pb n="7" facs="tcp:115914:4"/> actions and meditations, which may diſpoſe and qua<g ref="char:EOLhyphen"/>lifie us for Divine Worſhip; But that which <hi>Solomon</hi> here ſpeaks of, is of the eſſence and ſubſtance of it. But what is that?</p>
+               <p>
+                  <hi>Keep thy foot.] Spiritualem pedem animae omnes in<g ref="char:EOLhyphen"/>terpretantur,</hi> ſays <hi>Lorinus;</hi> All thoſe Expoſitors whoſe opinions he had collected, do with one voyce interpret it of the feet of the Soul; of the tempe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and diſpoſition, and reſolution which the ſoul ought to be in, both when we are coming to, and when we are come into the houſe of God.</p>
+               <p>But ſome may ſay, where is that? and urge againſt <hi>Solomon</hi>'s counſel in the text, <hi>Solomon</hi>'s confeſſion in another text; That <hi>God dwelleth not on earth, the Hea<g ref="char:EOLhyphen"/>ven of Heavens cannot contain him, much leſs that Houſe which he had built;</hi> 1 King. 8. 27.</p>
+               <p>I ſhall anſwer briefly for the preſent, That by the houſe of God here, is meant ſuch a place as is pecu<g ref="char:EOLhyphen"/>liarly deſigned, and conſecrated to, and for divine Service.</p>
+               <p>Here is yet a farther enquiry; Suppoſe the ſoul of a man to be rightly prepared to come; and being come, to be ſo well affected, as really and reveren<g ref="char:EOLhyphen"/>tially to conceive himſelf to be in the houſe and preſence of God; What muſt he do then? Moſt Tranſlations of the Text tell us, <hi>Be rea<g ref="char:EOLhyphen"/>dy to hear:</hi> But ſure there is more in it. Learned men obſerve, that the original word ſignifies alſo <hi>to obey;</hi> and ſo the vulgar hath it, <hi>Melior eſt Obedientia quam Victimae ſtultorum,</hi> It is not auricular, but pra<g ref="char:EOLhyphen"/>ctical hearing which is intended in this place; Obedi<g ref="char:EOLhyphen"/>ence to God's Commandments, conformity in our
+<pb n="8" facs="tcp:115914:5"/> lives to ſuch ſound doctrine as is delivered to us in the houſe of God.</p>
+               <p>There lies not any difficulty upon any other term in the text; and therefore for a full explication, be pleaſed to receive the Chaldee Paraphraſe upon it, which I have faithfully tranſlated. As if <hi>Solomon</hi> had ſaid thus;</p>
+               <p>Thou ſon of man, Keep thy feet at what time thou <note place="margin" type="runSum">The Paraphraſe on the Text.</note> ſhalt go into the houſe of the Sanctuary of the Lord to pray: Do not come thither full of ſins, before thou be converted; and while thou art there, incline thine ear to receive the doctrine of the Law from the Prieſts and Wiſe men; Be not as the fools, who offer a gift for their ſins, yet are not converted from their evil works which they have wrought with their hands; and ſo God is not well pleaſed with them, neither do they know what to do between good and evil.</p>
+               <p>And now that we do in ſome meaſure underſtand <note place="margin" type="runSum">The Diviſion:</note> the ſenſe and meaning of the words, be pleaſed to receive the diviſion of them into theſe two general parts.</p>
+               <p>Here is an <hi>Inſtruction,</hi> and a <hi>Caution.</hi>
+               </p>
+               <p>The <hi>Inſtruction</hi> conſiſts of two branches, and both full of fruit:</p>
+               <p>The firſt branch is, <hi>Keep thy foot when thou goest to the houſe of God.</hi>
+               </p>
+               <p>The ſecond branch is, <hi>Be more ready to hear</hi> (or o<g ref="char:EOLhyphen"/>bey) <hi>then to offer the ſacrifice of fools.</hi>
+               </p>
+               <p>The <hi>Caution</hi> is conteined in the latter clauſe, which is preſented in the term of a reaſon; <hi>For they conſider not that they do evil.</hi>
+               </p>
+               <pb n="9" facs="tcp:115914:5"/>
+               <p> So now the parts of the Text are laid open, and the work lies before us; and I hope we have all been ſo careful of our feet in coming to this houſe of the Lord this day, as that our pretended Divine Service may not prove a ſacrifice of fools; I muſt declare again, that my deſigne lies againſt the irreverend and wilful ſinne, though he be a frequenter of the Houſe of God; and my procedure ſhall be with all meek<g ref="char:EOLhyphen"/>neſs and gentleneſs, as becomes a Miniſter of Chriſt; and with all reverence and reſpect, as becomes ſo great a preſence as this is.</p>
+               <p>The firſt general part, the <hi>Inſtruction;</hi> I am to invite your religious attention to gather the fruits of the firſt branch of it; In which we ſhall ſtop and ſtay upon theſe three things.</p>
+               <p>Firſt, That God hath an Houſe here on earth.</p>
+               <p>Secondly, That there is a reverence due to that Houſe.</p>
+               <p>Thirdly, We ſhall enquire wherein that reverence doth conſiſt.</p>
+               <p>From whence, we may paſs to the view of the ſe<g ref="char:EOLhyphen"/>cond branch; wherein we ſhall find what is the main conſtituent part of divine reverence; namely, Obe<g ref="char:EOLhyphen"/>dience to Divine Commands.</p>
+               <p>For the firſt of theſe; That God hath an Houſe here on earth, I am to make good the proof, thus.</p>
+               <p>Firſt, That God hath owned ſuch places as were peculiarly deſigned and conſecrated to his Worſhip, for his houſes, for his dwelling places here on earth.</p>
+               <p>Secondly, That the people of God in all ages have owned and acknowledged ſuch places as the houſes of God.</p>
+               <pb n="10" facs="tcp:115914:6"/>
+               <p> I cannot conceive more cogent arguments in this point, then the Word of God, and the practiſe of the people of God: Such as will not be convinced by theſe, muſt be reckoned in the number of thoſe <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, S<hi rend="sup">t</hi> 
+                  <hi>Paul</hi> ſpeaks of, <hi>unreaſonable men,</hi> whom no To<g ref="char:EOLhyphen"/>pick nor rational argument can win over to the de<g ref="char:EOLhyphen"/>cency and uniformity of Divine Worſhip.</p>
+               <p>Firſt, I ſay, God doth own ſuch places for his Houſes.</p>
+               <p>Is there no weight in that command of God? <hi>Ye ſhall ſanctifie my Sabbaths, and reverence my Sanctuary, I am the Lord.</hi> Lev. 19. 30. Where obſerve; Doth not the Lord own the Sanctuary as well as the Sab<g ref="char:EOLhyphen"/>bath? Doth he not ſay, Ye ſhall reverence my San<g ref="char:EOLhyphen"/>ctuary, as well as ye ſhall keep my Sabbath?</p>
+               <p>Such as would evade this evidence, by ſaying, that the Tabernacle, and the Sanctuary, and the Temple were Jewiſh things, they were types and ſhadows, and are vaniſhed and aboliſhed: We Chriſtians are free to ſerve God in any place, and at any time. True, we are ſo; but by ſuch an argument as this, we may wipe out the Commandments of both Tables; for they were Jewiſh things, as being firſt given to them: and truly it is eaſie to obſerve, that ſuch as have been the revilers, and deſpiſers, and deſtroyers of the houſes of God amongſt us, have been rejecters and contemners of all the other Commandments of God; a very ſleight care of godly or neighbourly duties hath appeared among them.</p>
+               <p>But I confeſs it is improper to anſwer an argument by an invective; and therefore I ſay, in the ſecond place.</p>
+               <pb n="11" facs="tcp:115914:6"/>
+               <p> Where the fundamental reaſon of ſomthing in the firſt conſtitution of it abides ſtill the ſame; there the thing it ſelf muſt abide in the like eſteem.</p>
+               <p>I have heard it is a Rule in the Law, <hi>Eâdem, vel ſi<g ref="char:EOLhyphen"/>mili ratione manente, idem ſtatuendum eſt;</hi> Like rea<g ref="char:EOLhyphen"/>ſons produce like determinations in all caſes.</p>
+               <p>There was a fundamental reaſon in the Inſtitution of the Sabbath, the day allotted for divine Worſhip: and therefore the holy Apoſtles did not abrogate, but change it. Now the fundamental reaſon of the Jew<g ref="char:EOLhyphen"/>iſh Tabernacle and Temple was, that God ſhould have a ſet place, as well as a ſet time for his Worſhip; it being improbable that Divine Service ſhould ever be ſolemnly performed, except there be both time and place appointed for it.</p>
+               <p>And this was the reaſon why holy <hi>David</hi> was ſo careful in providing materials; and <hi>Solomon</hi> was ſo induſtrious in building the Temple of <hi>Jeruſalem,</hi> that there might be a fixed place where the Name of the Lord might be placed and called on, and where the Lord might meet his people and bleſs them.</p>
+               <p>Hence was that command of God, That while the Jews were in their ambulatory condition, removing their Tents from place to place, they ſhould build him an Altar of earth, wherein their Sacrifices were to be offered: The reaſon whereof is there aſſigned. <hi>In all places where I record my Name;</hi> that is, <hi>In every place where the remembrance or Memorial of my Name ſhall be, I will come unto thee and bleſs thee,</hi> Exod. 20. 24.</p>
+               <p>The like command, upon the like reaſon, we find <hi>Exod,</hi> 25. 8. <hi>Let them make me a Sanctuary, that I</hi>
+                  <pb n="12" facs="tcp:115914:7"/> 
+                  <hi>may dwell in the midſt of them;</hi> which makes to the Point in iſſue: That the Lord owns his Sanctuaries, the places deſigned for his Worſhip, as his Houſes, and his dwelling places. But there are in this caſe more clear and plain evidences; yet I ſhall enforce but one more.</p>
+               <p>When the Lord ſays by the Prophet, <hi>Iſa.</hi> 56. <hi>That he would make the Gentiles joyful in his Houſe of Prayer;</hi> and again, <hi>My Houſe ſhall be called the Houſe of prayer for all people:</hi> verſe the 7. it is worth the noting, that the Prophet ſpeaks in the Future Tenſe, <hi>My Houſe ſhall be called;</hi> and this univerſally, in regard of all people, not of the Jewes alone, but of the Gentiles alſo.</p>
+               <p>And this precious promiſe is recorded by three of the four Evangeliſts; by St. <hi>Matthew</hi> in the 21. By St. <hi>Mark</hi> in the 11. By St. <hi>Luke</hi> in the 19. Chapters of their Goſpel: I infer, if that Temple, that Houſe of Prayer, had not been the Lords Houſe by a pecu<g ref="char:EOLhyphen"/>liar right and propriety, he had had no <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaſon to take the prophanation of it ſo unkindly: If a Stable, as ſome have ſaid, be as holy a place as a Temple, what need had the Lord Chriſt to be angry, that Sheep, and Oxen were brought into it? and ſold to the peo<g ref="char:EOLhyphen"/>ple for their Sacrifices. Surely 'tis no offence to Chriſt, nor diſhonour to Religion, to put Cattel in a Stable, but the Lord Chriſt did not conceive ſo of it. He eſteemed and called it his Houſe: and as Di<g ref="char:EOLhyphen"/>vines obſerve on that paſſage; He gave the moſt ſig<g ref="char:EOLhyphen"/>nal teſtimony of his diſpleaſure that appeared in the whole courſe of his life. St. <hi>John</hi> tells us, that he made a Scourge of ſmall Cords, and drove the buy<g ref="char:EOLhyphen"/>ers
+<pb n="13" facs="tcp:115914:7"/> and ſellers out of his Temple; he would not en<g ref="char:EOLhyphen"/>dure that that Houſe, which was deſigned to the duty of prayer, and other parts of divine Worſhip, ſhould be made an houſe of Merchandiſe, and Den of Theeves.</p>
+               <p>Again, is it not plain out of that promiſe, that the Lord intended there ſhould be a ſucceſſion of his Houſes? that in all ages, as the light of the Goſp<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l ſhould appear to any Nation, they ſhould have an Houſe, a fixed place to reſort unto for Divine Wor<g ref="char:EOLhyphen"/>ſhip; <note n="*" place="margin" type="runSum">
+                     <hi>It was im<g ref="char:EOLhyphen"/>poſſible that the Temple at</hi> Je<g ref="char:EOLhyphen"/>ruſalem <hi>ſhould be an Houſe of Prayer to all Nations.</hi>
+                  </note> and the Lord performed this promiſe, in ſtir<g ref="char:EOLhyphen"/>ing up the hearts of holy men, to erect and prepare convenient places for holy Worſhip; and if the re<g ref="char:EOLhyphen"/>cords of antiquity do not deceive us, there were ſome Churches built even by the Apoſtles themſelves; by St. <hi>Andrew</hi> and St. <hi>Luke.</hi> That evidence of <hi>Iſidore Peluſiota,</hi> is fraudulently detorted by ſome, when they cite him, ſaying, <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> That in the Apoſtles time there were no Churches; but they leave out what he adds, <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, that is, not ſo magnificently built, nor ſo richly adom'd as in the ſucceeding age they had, whereof there is mention made by Saint <hi>Ignatius</hi> in his Epiſtle to the <hi>Magnetians;</hi> by <hi>Juſtine</hi> the Martyr, in his ſecond Apology; and by St. <hi>Martialis</hi> in his Epiſtle to thoſe of <hi>Tholouſe.</hi>
+               </p>
+               <p>By this that hath been ſpoken, I hope the Evidence is clear, <hi>That the Lord doth own ſome places as his Hou<g ref="char:EOLhyphen"/>ſes.</hi> And I was the larger in this, becauſe I conceived the proof would mainly ſtick here: If the Lord vouchſafe to call them his Houſes, and his dwelling places, and the Memorials of his Name; It might be
+<pb n="14" facs="tcp:115914:8"/> neceſſary, that ſome amongſt us would conſider, whether thoſe reproachful Names which they put up<g ref="char:EOLhyphen"/>on our Churches, in calling them Steeple-Houſes, and Meeting-places; And whether their continual wilfull abſence from them, be not defaults againſt that command of God, <hi>Of Reverencing his Sanctuaries?</hi> The Lord in his due time give them g<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ace to conſider of it, and bring thoſe wandring and well-neer loſt Sheep into the Fold of his Church again.</p>
+               <p>It follows now that I declare unto you, that the people of God in all ages have owned and acknow<g ref="char:EOLhyphen"/>ledged thoſe places which were deſigned for the pub<g ref="char:EOLhyphen"/>lick Worſhip of God, as the Houſes of God.</p>
+               <p>When <hi>Cain</hi> complained that he was driven from the preſence of God, <hi>Peter Martyr</hi> underſtands it, that he bemoand himſelf, as being caſt out of the Church of God, which was then in the Family of <hi>Seth.</hi>
+               </p>
+               <p>When the Lord vouchſafed to holy <hi>Jacob</hi> that vi<g ref="char:EOLhyphen"/>ſion of the Ladder; and when he ſaw the Angels aſcending and deſcending upon it, he breaks out in<g ref="char:EOLhyphen"/>to that Expreſſion; <hi>How fearful is this place? This is none other but the Houſe of God!</hi> and it was a part of his Vow: <hi>This Stone ſhall be the Houſe of God, and of all that thou haſt given me, I will ſurely give the Tenth unto thee.</hi>
+               </p>
+               <p>How often doth holy <hi>David</hi> make mention of the Sanctuary of the Lord, and the preſence of God, and the Houſe of God? In all which expreſſions he in<g ref="char:EOLhyphen"/>tended the place of publick Worſhip; and that, be<g ref="char:EOLhyphen"/>fore the Temple was built.</p>
+               <p>It were endleſs to cite the Teſtimonies of all the Prophets; do but conſider that ſharp reproof of the
+<pb n="15" facs="tcp:115914:8"/> Prophet <hi>Haggai,</hi> when the people of <hi>Iſrael</hi> were re<g ref="char:EOLhyphen"/>turned out of <hi>Babylon,</hi> and were more intent on the building and beautifying of their own houſes then the Houſe of God; He puts that confounding queſtion to them: <hi>Is it time for you to dwell in ſieled Houſes, and the Houſe of God lye w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſte?</hi>
+               </p>
+               <p>Doth not St. <hi>Paul</hi> check the <hi>Corinthians</hi> for deſpi<g ref="char:EOLhyphen"/>ſing the Church of God, and for the diviſions that were among them when they met in the Church of God, 1 <hi>Cor.</hi> 11?</p>
+               <p>That by the Church of God he meant the place which was then ſet apart for divine Service, is the concurrent opinion of thoſe 18 Greek Fathers, whoſe judgements <hi>Gecumenius</hi> ſum'd up; and of thoſe mo<g ref="char:EOLhyphen"/>dern Divines whom <hi>Marlorate</hi> hath epitomiz'd; they all underſtand it, <hi>non de coetu, ſed de loco; not of the Congregation, but of the place</hi> they were met in, which was not to be prophaned by their uncharitable diviſi<g ref="char:EOLhyphen"/>ſions, nor their luxurious Feaſts, which had been leſs ſinful in their own houſes.</p>
+               <p>I ſhall not conceal from you, in what a paſſionate way St. <hi>Hierom</hi> expreſſed himſelf againſt <hi>Sabinian</hi> for an indecent action in a Church. <hi>Infaeliciſsime morta<g ref="char:EOLhyphen"/>lium;</hi> Oh thou moſt unhappy of all the ſons of men! <hi>Proh nefas! non poſſum ultra progredi:</hi> When he was about to declare his ſin, he breaks off, and cryes out, <hi>Oh horrid Impiety! I am not able to expreſs my ſelf, my tears flow faſter then my words; my ſpirit is ſtreightned through grief and indignation.</hi> Even <hi>Cicero</hi> and <hi>De<g ref="char:EOLhyphen"/>moſthenes</hi> would be dumb in ſuch a cauſe as this, and could not ſay any thing to defend it; So great an ag<g ref="char:EOLhyphen"/>gravation did <hi>Sabinians</hi> ſin contract from the holi<g ref="char:EOLhyphen"/>neſs
+<pb n="16" facs="tcp:115914:9"/> of the place it was committed in.</p>
+               <p>And we may wonder the leſs at the paſſionate zeal of St. <hi>Hierom,</hi> when we hear old <hi>Eli</hi> reproving his Sons for their miſdemenor with the women of <hi>Iſrael</hi> at the door of the Tabernacle: <hi>If</hi> (ſays he) <hi>one man ſin againſt another, the Judge ſhall judge him; but if a man ſin againſt the Lord, who ſhall intreat for him?</hi> He calls their ſin, a ſin againſt the Lord, in reſpect of the place; and intimates, that it was of ſuch an heinous nature, as was not to be expiated by ſacrifice or inter<g ref="char:EOLhyphen"/>ceſſion.</p>
+               <p>To declare the reverend eſteem which holy men have had of the Houſes of God, is too copious an Ar<g ref="char:EOLhyphen"/>gument to be touched upon in a Sermon; 'tis fitter ra<g ref="char:EOLhyphen"/>ther for a Volumne then an hours diſcourſe; and I had not ſaid ſo much, but to invalidate thoſe pretenſi<g ref="char:EOLhyphen"/>ons of piety, by which the Sectaries would diſguiſe their contempt of the Houſes of God, and their ſeparation from us.</p>
+               <p>It was one of the brain-ſick humours of the <hi>Dona<g ref="char:EOLhyphen"/>tiſts</hi> of old; they eſteemed a beggarly Cottage fitter for Gods ſervice, then a magnificent Temple.</p>
+               <p>The <hi>Manicheans</hi> objected it as a criminal matter a<g ref="char:EOLhyphen"/>gainſt the Chriſtians, that they have Temples and Altars after the manner of the Jewes, and the Gen<g ref="char:EOLhyphen"/>tiles.</p>
+               <p>The <hi>Meſſalians</hi> imitated them, execrating and a<g ref="char:EOLhyphen"/>bandoning all Churches, and would pray only in their own houſes.</p>
+               <p>
+                  <hi>Socrates</hi> reckons it among the errors of <hi>Euſtatheus,</hi> that he deteſted all Churches, and perſwaded his fol<g ref="char:EOLhyphen"/>lowers to keep their Conventicles in their private Houſes.</p>
+               <pb n="17" facs="tcp:115914:9"/>
+               <p> In this Glaſs our modern Sectaries may ſee from what Progenitors they are deſcended; that in deſpi<g ref="char:EOLhyphen"/>ſing the Churches of God, they walk in the paths of condemn'd Hereticks: And whereas they pretend P<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ety and Purity in their ſeparation from us, they pol<g ref="char:EOLhyphen"/>lute themſelves with the greateſt impiety; for they rob God of his right and propriety in the Houſes of Prayer, which himſelf hath claimed, and his people in all ages have cheerfully and humbly acknowledg<g ref="char:EOLhyphen"/>ed.</p>
+               <p>Well then, If God hath an Houſe here on earth: It will follow in the next place, that there is a Reve<g ref="char:EOLhyphen"/>rence due to it.</p>
+               <p>It is due, firſt, in reſpect of the divine Command. <hi>Ye ſhall Reverence my Sanctuary;</hi> the Command is twice repeated in the Book <hi>Leviticus:</hi> and that we may not conceive it a ſervice peculiar to the Jewes only, St. <hi>Paul</hi> makes it his Exhortation, <hi>to ſerve God acceptably, with reverence and godly fear, for our God is a conſuming fire,</hi> Heb. 12.</p>
+               <p>Secondly, Reverence is due to the Houſe of God, becauſe it is the memorial of his divine preſence.</p>
+               <p>There is ſomething in that Promiſe, which the Lord made to <hi>Solomon,</hi> when he had conſecrated his Temple by prayer: <hi>Mine eyes and my heart ſhall be there perpetually,</hi> 1 Kings 9. 3. And doth not our bleſ<g ref="char:EOLhyphen"/>ſed Saviour promiſe, <hi>That when two or three ſhall be gathered together in his Name, He would be in the midſt of them:</hi> Theſe places import a divine preſence in the Houſes of Prayer, eſpecially in the time of Prayer.</p>
+               <p>Some of the Ancients raiſed an Argument for Re<g ref="char:EOLhyphen"/>verence to the Houſe of God, in regard of the imme<g ref="char:EOLhyphen"/>diate
+<pb n="18" facs="tcp:115914:10"/> preſence of the Angels of God there. <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, ſays St. <hi>Chryſoſtom;</hi> He is re<g ref="char:EOLhyphen"/>proving his <hi>Antiochians</hi> for their irreverent behavi<g ref="char:EOLhyphen"/>our in the Church, in walking, and talking, and ſalu<g ref="char:EOLhyphen"/>ting one another, and the like. The Church (ſayes he) is not like a Barbers ſhop to tattle in, and tell news, but the place of Angels, and Arch-Angels, the P<g ref="char:EOLhyphen"/>lace of God, even Heaven it ſelf.</p>
+               <p>And in another place he adviſes thus: <hi>Conſider</hi> (ſays he) <hi>with whom thou ſtandeſt, with whom thou calleſt upon the Name of the Lord: With Cherubims and Sera<g ref="char:EOLhyphen"/>phims, and all the powers of Heaven:</hi> It may be ſuffi<g ref="char:EOLhyphen"/>cient to perſwade thee to reverence, when thou re<g ref="char:EOLhyphen"/>membreſt, that thou who art but fleſh and blood, but duſt and aſhes, art admitted with the incorporeal powers to celebrate the Lord of Glory. So that Father.</p>
+               <p>To the ſame purpoſe, St. <hi>Ambroſe. Nè dubites aſ<g ref="char:EOLhyphen"/>ſiſtere Angelos, ubi Chriſt us aſsiſtle; There is no queſti<g ref="char:EOLhyphen"/>on to be made, but where Chriſt is preſent, the Holy An<g ref="char:EOLhyphen"/>gels are preſent alſo.</hi>
+               </p>
+               <p>
+                  <hi>Tertullian</hi> obſerving the irreverent geſture of ſome, ſitting in the time of Prayer in the Church, manages his Argument thus. <hi>Siquidem irreverens eſt aſside<g ref="char:EOLhyphen"/>re,</hi> &amp;c. <hi>If it be an irreverent thing to ſit in the ſight and preſence of him whom thou honoureſt in an eſpecial man<g ref="char:EOLhyphen"/>ner; how much more irreligious is it to do it in the pre<g ref="char:EOLhyphen"/>ſence of the living God?</hi> Angelo orationis adſtante, <hi>and the Angel of Prayer ſtanding by:</hi> Unleſs thou wilt upbraid God that thou haſt wearied thy ſelf with praying, and canſt ſtand nor kneel no longer.</p>
+               <p>And theſe judicious Fathers did not urge this Ar<g ref="char:EOLhyphen"/>gument
+<pb n="19" facs="tcp:115914:10"/> for reverence, without good grounds for it. The learned <hi>Junius</hi> in his Not<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s upon that place of <hi>Tertullian,</hi> conceives, that in that expreſsion he had reſpect to that place, 1 <hi>Cor.</hi> 11. 10. where S. <hi>Paul</hi> in<g ref="char:EOLhyphen"/>ſtructing them for the moſt decent manner in the du<g ref="char:EOLhyphen"/>ty of Prayer, ſays, <hi>For this cauſe ought a woman to have power</hi> (or a covering) <hi>on her head; becauſe of the Angels;</hi> namely, which are preſent there; for other<g ref="char:EOLhyphen"/>wiſe there were no ſtrength in the Argument: Why ſhould the woman be covered in the place of prayer, more then any where elſe, unleſs the Angels be more there then any where elſe? They are <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ſaid <hi>Philo Judaeus,</hi> Overſeers, to look that all things be done as they ought in the houſes of God; and hence no doubt was that expreſsion which we have in our Liturgy, <hi>Wherefore with Angels and Archan<g ref="char:EOLhyphen"/>gels, and all the Company of Heaven, we laud and mag<g ref="char:EOLhyphen"/>niſie thy glorious Name.</hi>
+               </p>
+               <p>We have now well neer gathered the fruit of the firſt branch of <hi>Solomon</hi>'s Inſtruction. Two things have appeared to us.</p>
+               <p>Firſt, That God hath his Houſes here on Earth.</p>
+               <p>Secondly, that there is a Reverence due to them.</p>
+               <p>We are now in the third place to enquire, wherein that Reverence doth conſiſt?</p>
+               <p>And we have the anſwer in the Text, <hi>Cuſtodi pedem tuum, Keep thy foot when thou entereſt into the Houſe of God.</hi>
+               </p>
+               <p>And here it were eaſie to refreſh your attention, with the grateful variety of conjectures, what <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> might mean in theſe words.</p>
+               <p>
+                  <hi>Hugo de Sancto Victore</hi> conceives, that our Reve<g ref="char:EOLhyphen"/>rence
+<pb n="20" facs="tcp:115914:11"/> to the houſe of God may be expreſſed, Firſt; in the decent decking and adorning of them; which he collects from that paſſage <hi>Pſal.</hi> 144. 12. <hi>That our daughters may be as the poliſhed corners of the Temple:</hi> the Lxx. renders it, <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>concinnae &amp; ornatae,</hi> beautiful and adorned.</p>
+               <p>In this Prayer of <hi>David</hi> it muſt neceſſarily be ſup<g ref="char:EOLhyphen"/>poſed, that the corner ſtones of the Temple were car<g ref="char:EOLhyphen"/>ved and poliſhed; had they been rough and unhewen, it had been a frivolous prayer, if <hi>David</hi> had deſired of the Lord that the daughters of his people ſhould be like to them.</p>
+               <p>But in this laſt and worſt age of the world, the Re<g ref="char:EOLhyphen"/>verend Sons of God may invert that prayer, <hi>That the ſtones of our Churches were but poliſhed and beautified as our daughters are.</hi> There are many wealthy perſons who have laid out more money for a new Dreſsing, or a new Gown for a Daughter, then ever they gave to<g ref="char:EOLhyphen"/>ward the repair of a Church, in their whole lives.</p>
+               <p>
+                  <hi>Paulinus</hi> the Biſhop of <hi>Nola,</hi> expreſſed his reve<g ref="char:EOLhyphen"/>rence to the Houſe of God in that deſire of his;</p>
+               <l>
+                  <hi>Prae foribus ſervire tuis: tua lumina mane</hi>
+               </l>
+               <l>
+                  <hi>Munditie curare ſinas.—</hi>Tranſlated thus.</l>
+               <l>Let me attend thy doors, and every morn</l>
+               <l>Sweep clean thy Threſhold, and thy Porch adorn.</l>
+               <p>So we find <hi>S. Hierome</hi> commending <hi>Nepotian</hi> for dreſsing up the Church with boughs and flowers, and for keeping the walls and the pavements clean.</p>
+               <p>Certainly there is a golden mean between that pompous Ornament which the Papiſts beſtow upon
+<pb n="21" facs="tcp:115914:11"/> their Churches, and that ſluttiſh neglect which we may obſerve in ſome Churches of the Proteſtants. Look upon their out-ſides, and by the thatch, and broken roof, you would take them rather to be Sta<g ref="char:EOLhyphen"/>bles for Horſes, then places deſigned for the Wor<g ref="char:EOLhyphen"/>ſhip of the God of Heaven.</p>
+               <p>Look into their inſides, and were it not for a worm<g ref="char:EOLhyphen"/>eaten Table, and ſome broken ſeats and forms, you would think them rather places littered for Swine to lye in, then for Chriſtians to pray in.</p>
+               <p>The Lord be merciful to this Land for our irreve<g ref="char:EOLhyphen"/>rence to his Sanctuaries in this particular, and raiſe our hearts to that pitch of devotion, to make and keep Gods Houſe, at leaſt, as decent as our own.</p>
+               <p>But in the ſecond place, let us inquire what this keeping of the Foot is.</p>
+               <p>This is certain, that both the Jews and the Gen<g ref="char:EOLhyphen"/>tiles alſo did underſtand it literally.</p>
+               <p>
+                  <hi>Aben Ezra</hi> (as I find him cited) gloſſes it thus. Come not into the Houſe of God, <hi>Illotis Pedibus,</hi> with unwaſhen feet.</p>
+               <p>
+                  <hi>Maimonides</hi> tells us, it was not lawful for a man to come into the Houſe of God with his ſhoes on his feet, or with his ſtaffe, or in his working garment, or with duſt on his feet.</p>
+               <p>Which is further confirmed by what <hi>Burtorſius</hi> relates to be the modern practice of the Jews in their Synagogues, even in theſe Weſtern and colder parts of the World. Before the door of their Synagogues they have an iron faſtned in the wall, whereat every one is bound to make clean his dirty ſhoes, and that by the authority of <hi>Solomon,</hi> who ſaith, <hi>Look to thy</hi>
+                  <pb n="22" facs="tcp:115914:12"/> 
+                  <hi>Foot.</hi> And whoſoever had ſlippers on, if they were foul, he was bound to put them off, according as it is written, <hi>Put off thy ſhoes from thy feet, for the place whereon thou ſtandeſt is holy ground.</hi>
+               </p>
+               <p>In this literal ſence did the Jews underſtand this Inſtruction of <hi>Solomon:</hi> And we find that the Gen<g ref="char:EOLhyphen"/>tiles, by the impulſion of the Law of Nature did reverence the Temples of their gods in this manner.</p>
+               <p>It was one of the Precepts of <hi>Pythagoras:</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Offer thy Sacrifice, and wor<g ref="char:EOLhyphen"/>ſhip with thy ſhoes off.</p>
+               <p>
+                  <hi>Druſius</hi> tells us, that ſome of the Eaſtern Nations held it a crime not to be pardoned, to tread upon the pavement of their Temples with their ſhoes on.</p>
+               <p>And ſo a late Writer, who was a long time Priſo<g ref="char:EOLhyphen"/>ner among the Turks, tells us what their behaviour is, when they come into their Moſguees.</p>
+               <p>Their firſt duty is, to waſh their hands and their feet; then they ſprinkle water thrice on their heads, repeating theſe words: <hi>Glory be to my God.</hi>
+               </p>
+               <p>Then putting off their ſhoes, they enter into their Temples.</p>
+               <p>And ſo <hi>Arnobius</hi> tells us, it was the cuſtome of ſome Heathens to fall down flat in the Temples of their Idols.</p>
+               <p>And that all theſe expreſſions of Divine Reve<g ref="char:EOLhyphen"/>rence may not be blown away as ſuperſtitious Rites and Ceremonies, ſavouring of Judaiſme and Genti<g ref="char:EOLhyphen"/>liſme; be pleaſed to hear in what ſence ſome Chri<g ref="char:EOLhyphen"/>ſtians have underſtood this Inſtruction of <hi>Solomon.</hi>
+               </p>
+               <p>
+                  <hi>Zaga Zabo,</hi> a Biſhop of <hi>Ethiopia</hi> being ſent Embaſ<g ref="char:EOLhyphen"/>ſadour to the King of <hi>Portugal,</hi> and being requeſted
+<pb n="23" facs="tcp:115914:12"/> to make a Relation of the Rites and Ceremonies which the <hi>Abyſines</hi> uſed in their Divine Service; He gives this.</p>
+               <p>
+                  <hi>It is forbidden amongſt us, that either Heathens, or Dogs, or any other beaſts ſhould come into our Churches.</hi>
+               </p>
+               <p>
+                  <hi>It is not permitted to us to go into our Churches, but bare-footed.</hi>
+               </p>
+               <p>
+                  <hi>It is not lawful for us to walk up and down in our Churches, nor to laugh, nor to ſpit, nor to ſpeak of ſecu<g ref="char:EOLhyphen"/>lar matters, becauſe our Churches are like Mount</hi> Sinai, <hi>where God ſpake unto</hi> Moſes, ſaying, <hi>Put off thy Shoes from thy feet, for the place whereon thou ſtandeſt is Holy Ground.</hi>
+               </p>
+               <p>St. <hi>Hierome</hi> reports it to the honour of that devout Matron, <hi>Paula,</hi> that ſhe died with theſe words in her mouth: <hi>How dreadful is this place? this is none other but the Houſe of God.</hi>
+               </p>
+               <p>And <hi>Greg. Nazianzen</hi> commends his pious Mo<g ref="char:EOLhyphen"/>ther <hi>Nonna,</hi> that in the Church ſhe would never o<g ref="char:EOLhyphen"/>pen her lips but concerning divine matters; that ſhe never turn'd her back upon the Altar; that ſhe would never ſpit upon the pavement, as conſidering her ſelf to be in the Houſe, and preſence of the Lord.</p>
+               <p>By theſe ſeveral Inſtances we may perceive how all Nations, both Jews, Gentiles, and Chriſtians, agree in this reverent behaviour in the Houſe of their gods: And ſhall the Engliſh Chriſtians be the only rude, uncivil, and irreverent worſhippers of their God above all the world beſide? God forbid.</p>
+               <p>I preſs you not to a ſtrict imitation of theſe ſeveral Nations, in putting off your ſhoes, or waſhing your feet, or your heads: Onely this, that whenſoever
+<pb n="24" facs="tcp:115914:13"/> ye are coming to, and when ye are entred into the Houſes of God, ye would conſider that ye have a glo<g ref="char:EOLhyphen"/>rious, and a jealous God to meet with: That the ho<g ref="char:EOLhyphen"/>ly Angels, though they know not your hearts, yet are over-ſeers of your outward geſtures and behaviour; and it is their joy to ſee and hear the real expreſſions of unfeigned repentance. So <hi>Junius</hi> interprets thoſe words of St. <hi>Luke</hi> 10. 15. <hi>I ſay unto you, there is joy in the preſence of the Angels of God over one ſinner that repenteth:</hi> that is, The Angels of God can ſee our tears and our humble poſtures; they can hear our ſighs and our groans, aad the confeſſion we make of our ſins; and this is matter of joy to them, that the number of the Servants of God, and ſuch as ſhall be ſaved, is encreaſed.</p>
+               <p>It may beget an abaſing bluſh in us to hear what <hi>Seneca</hi> ſaid in this caſe. <hi>Intramus Templa compoſud, in omne argumentum modeſtiae fingimur:</hi> We enter in<g ref="char:EOLhyphen"/>to our Temples with compoſed ſpirits, and frame our ſelves to all poſsible expreſsions of modeſty and humility. And no doubt the Lord expects the like from us, and more; foraſmuch as we have a better God to ſerve then the Heathens had; and the knowledge of him is delivered over to us by clearer and more abundant revelations.</p>
+               <p>But I muſt not ſtay too long upon the literal ſence of theſe words. <hi>Keep thy foot when thou entereſt into the Houſe of God:</hi> There is ſomething more in them.</p>
+               <p>
+                  <hi>Hippomanus,</hi> and ſome other Expoſitor, have ob<g ref="char:EOLhyphen"/>jected, <note place="margin" type="runSum">The Second Sermon.</note> That that Ceremony of Diſcalceation, among the Jews, was uſed to ſignifie a mans departure from
+<pb n="25" facs="tcp:115914:13"/> his Right; in paſsing his Inheritance to another, as we read, <hi>Ruth</hi> 4. 7.</p>
+               <p>And it is not improbable, that <hi>Solomon</hi> in this In<g ref="char:EOLhyphen"/>ſtruction, might have reſpect unto that Ceremony.</p>
+               <p>When St. <hi>Paul</hi> called upon the Corinthians to glorifie God, both with their bodies and their ſpirits, he preſſes them to it by this Argument: <hi>Ye are not your own, ye are bought with a price;</hi> as if he had ſpo<g ref="char:EOLhyphen"/>ken to them in the phraſe of the Text: <hi>Put off your Shoes from your feet. Yeild up that right which ye have to the members of your bodies, and the faculties of your ſouls unto Chriſt, who hath redeemed them:</hi> And from this Notion of the phraſe (which is genuine enough, and analogous to the rule of divine Worſhip) I may raiſe ſome other Notions, which may ſerve to ad<g ref="char:EOLhyphen"/>vance and promote the Duty which we have in hand.</p>
+               <p>I ſhall eaſily admit that account which <hi>Lorinus</hi> gives us, that by <hi>foot</hi> here, is meant, the <hi>feet,</hi> that is, the affections of the ſoul; but may I not put the queſtion, Of the ſoul only? Had <hi>Solomons</hi> inſtructi<g ref="char:EOLhyphen"/>on no deſign upon the members of the body? Doth Divine Reverence conſiſt only in the pious frame and compoſure of the ſoul? Certainly it requires the whole man; the inward man, and the outward man too; and the enſuing Diſcourſe will be managed ac<g ref="char:EOLhyphen"/>cordingly in ſome ſhort Directions for the decent be<g ref="char:EOLhyphen"/>haviour of the outward man.</p>
+               <p>Firſt, I adviſe according to the letter of the Text. <hi>Keep thy foot when thou goeſt to the Houſe of God:</hi> When thou art going thither keep on thy way; ſuf<g ref="char:EOLhyphen"/>fer no temptation either to ſtay thee at home, or to turn thee aſide from it. It is one of the choiceſt arts
+<pb n="26" facs="tcp:115914:14"/> of Satan, in hindering men from going to the Houſe of God; he knows that there is not any thing that debauches the ſpirit of a man, nor hardens his hea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t more, then his frequent abſence from divine worſhip; that's the ſin which keeps men in ignorance of them<g ref="char:EOLhyphen"/>ſelves, and of the ways of God, and diſcompoſes them for that great account which they muſt render to the Lord at the laſt day.</p>
+               <p>1 <hi>Chron.</hi> 21. 30. We read <hi>That</hi> David <hi>could not go up to</hi> Gibeon <hi>to inquire of the Lord, becauſe of the ſword of the Angel of the Lord:</hi> that is, becauſe he was to paſs through infected places thither; but when the way to the Houſe of God is clear and ſafe, thy abſence from it will not be defended by either of thoſe too common excuſes; ſome worldly buſineſs, or the entertainment of a friend that came to viſit th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</p>
+               <p>Again, <hi>Keep thy foot when thou art come into the Houſe of God.</hi>
+               </p>
+               <p>
+                  <hi>Tertullian</hi> tells us, that the primitive Chriſtians had their <hi>Dies ſtationum,</hi> days of ſtanding, wherein they thought it <hi>Nefas,</hi> (as he expreſſes it) an unlaw<g ref="char:EOLhyphen"/>ful thing to kneel, though at Prayer; and thoſe days continued from the Paſſover to the Pentecoſt, in me<g ref="char:EOLhyphen"/>mory (as it is thought) of our Saviours Reſurrection. St. <hi>Cyprian</hi> tells us, that the Confeſſors and Martyrs, who perſevered in the faith were called <hi>Stantes, The Standers.</hi> The ancient Church took up another cuſtom at the reading of ſome portions of the Goſpel, and at the repetition of the Articles of our Faith, that the Congregation ſhould ſtand up; not only to acknow<g ref="char:EOLhyphen"/>ledge their unity and conſent in faith, but to teſtifie their reſolution to perſevere in that faith, and to main<g ref="char:EOLhyphen"/>tain
+<pb n="27" facs="tcp:115914:14"/> the truth of that Goſpel againſt all oppoſers.</p>
+               <p>And ſince that cuſtom of ſtanding at thoſe times, at the repetition of the Creed, and the reading of the Goſpel, hath been derived down to us by the piety of our fore-Fathers; I adviſe you to look to your feet then; do not kneel at the Creed, as the manner of ignorant perſons is, as if it were a prayer. Do not ſit, as if ye doubted of the truth, or were not con<g ref="char:EOLhyphen"/>cerned in that publick profeſsion of your Faith; and as if your conſtancy to it would be conditional; that is, ſo long as it ſtands in favour, and is in faſhion with the world: But in the Name of God ſtand up at it, and ſtand up for it; that the Lord may ſtand with you, as He did by St. <hi>Paul,</hi> and ſtrengthen you in the day of your tribulation.</p>
+               <p>I purſue my deſign of putting our outward Man into a reverend poſture for divine worſhip; and there<g ref="char:EOLhyphen"/>fore the diſcourſe riſeth from the <hi>Foot</hi> to the <hi>Knee.</hi> Look to that, that it be not too ſtiffe in the Houſe of God.</p>
+               <p>
+                  <hi>God ſtandeth in the Congregation,</hi> ſaith <hi>David;</hi> doth God ſtand? and do his holy Angels ſtand and look upon thee, and wilt thou ſit? Wilt thou ſit, and never kneel? St. <hi>Jerom's</hi> rule is, not only <hi>frequen<g ref="char:EOLhyphen"/>ter orandum,</hi> to be often in the duty of prayer; but <hi>flexo corpore orandum,</hi> to declare an inward humilia<g ref="char:EOLhyphen"/>tion by an outward.</p>
+               <p>Our coming to Church is a Teſtification, a profeſ<g ref="char:EOLhyphen"/>ſion of our Religion; and to teſtifie our fall in <hi>Adam;</hi> the Church appoints us at certain times to fall upon our knees; and to teſtifie our faith in the Reſurrecti<g ref="char:EOLhyphen"/>on, both of Chriſts and our own; the Church hath
+<pb n="28" facs="tcp:115914:15"/> appointed certain times to ſtand, but no man is ſo left to his liberty as never to kneel.</p>
+               <p>
+                  <hi>Genu-flexio eſt Peccatorum:</hi> Kneeling is the ſinners poſture: If thou come hither in the quality of a ſin<g ref="char:EOLhyphen"/>ner (and if thou do not, what doſt thou here?) put thy ſelf into the ſinners poſture. Kneel ſometimes. <hi>Habe reverentiam Deo, ut quod pluris eſt ei tribuas,</hi> is devout <hi>Bernard's</hi> counſel. And let me improve it thus.</p>
+               <p>Do but remember with what reverence thou haſt come into thy Maſters preſence, when thou waſt a Servant.</p>
+               <p>Do but remember with what reverence thou haſt come into thy Landlords preſence, when thou wert a Tenant.</p>
+               <p>Do but remember with what reverence thou haſt come into a Court of Juſtice, when thou wert either a Client, or a Pleader, or a Witneſs, or but a ſtand<g ref="char:EOLhyphen"/>er by.</p>
+               <p>Do but remember with what reverence ye have come into the Kings preſence, or the Council Table, or, which was much lower, to a Committee-Table.</p>
+               <p>Collect (I ſay) but the reverence which thou haſt ſhewed to theſe Perſons, and in theſe places, and though I could wiſh the Lord had but as much; ſuch bowing of the knee, ſuch bending of the body, ſuch uncovering of the head, even in the coldeſt weather, ſuch mannerlineſs in all points; yet, <hi>Quod pluris est,</hi> ſays <hi>Bernard,</hi> God muſt have thus much reverence, and more; for all theſe expreſſions of reverence may be counterfeit, theſe honourable Perſons may have the body, but not the heart: but the Lord muſt have
+<pb n="29" facs="tcp:115914:15"/> all: Remember that call of <hi>David</hi> in the 95. <hi>Pſalm. O come let us worſhip, and fall down, and kneel before the Lord our Maker.</hi>
+               </p>
+               <p>From the reverence of the knee, we may paſs to the reverence of the hands.</p>
+               <p>
+                  <hi>I will</hi> (ſays St. <hi>Paul) that men pray every where, lift<g ref="char:EOLhyphen"/>ing up holy hands.</hi>
+               </p>
+               <p>This Rite in Prayer was obſerved by the Heathens, even by the inſtinct of Nature; So <hi>Virgil</hi> ſpeaking of <hi>Aeneas,</hi>
+               </p>
+               <q>Ingemit, &amp; duplices tendens ad ſidera palmas;</q>
+               <p>He ſighed, and lift up his hands to Heaven. Many other authorities might be cited of this nature.</p>
+               <p>
+                  <hi>Coſma Magalianus</hi> gloſſes upon theſe words of St. <hi>Paul.</hi> The lifting up of the hands is, <hi>Orantis forma, ex alto auxilium petentis,</hi> 'tis ſuch a poſture of Pray<g ref="char:EOLhyphen"/>er, whereby we declare that we ſeek for help from Heaven.</p>
+               <p>This was that poſture to which the Prophet <hi>Jere<g ref="char:EOLhyphen"/>my</hi> exhorted the diſtreſſed Jews. <hi>Let us lift up our hearts with our hands to God in the Heavens, Lamenta.</hi> 3. 41. Not the heart alone, but hands and heart too.</p>
+               <p>I had not mentioned this particular, but to remem<g ref="char:EOLhyphen"/>ber you, what an expreſs and punctual charge the Lord gives for all parts of bodily Worſhip, among which, this of lifting up the hands is ſo eminent, that the whole duty of Prayer is comprehended under it. <hi>When ye ſtretch out your hands, I will turn mine eyes from you,</hi> ſays the Lord by his Prophet <hi>Iſaiah.</hi>
+               </p>
+               <p>And this may ſerve to ſhame us for our dulneſs and
+<pb n="30" facs="tcp:115914:16"/> ſluggiſhneſs; and for that no motion which our bo<g ref="char:EOLhyphen"/>dies expreſs in the time of Divine Wo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhip. Out<g ref="char:EOLhyphen"/>ward geſtures are not only the Ornaments of Religi<g ref="char:EOLhyphen"/>on, but the Incentives of Devotion: The lifting up of thy hands may be the raiſing up of thy Pew-fel<g ref="char:EOLhyphen"/>lows heart; he may take a ſpark from thy holy zeal, and kindle himſelf into a flame of piety; but howe<g ref="char:EOLhyphen"/>ver it fare with him, if thou bow down thy knee be<g ref="char:EOLhyphen"/>fore God, he will bow down his ear to hear thee; and if thou lift up thy holy hands, thy help ſhall come from on high, and the Lord will fill them with good things.</p>
+               <p>I ſhould in the next place give you notice that there is a reverence due to the Houſe of God from the tongue.</p>
+               <p>And I hope there is not ſuch a critical Auditor in this Congregation, as to charge me with a digreſsion from the Text; becauſe <hi>Solomon</hi> ſpeaks to this ſubject in the verſe immediately following; he adviſes there, <hi>Be not raſh with thy mouth, and let not thy heart be haſty to utter any thing before God.</hi>
+               </p>
+               <p>
+                  <hi>Cajetan</hi> gave this ſenſe of the words, <hi>Oratio ad De<g ref="char:EOLhyphen"/>um careat feſtinatione, tam in ore, quam in corde.</hi> Our prayers to God muſt be ſo ordered, that our hearts be neither haſty in conceiving, nor our tongues in utter<g ref="char:EOLhyphen"/>ing. The Original word (ſays <hi>Lorinus)</hi> ſignifies <hi>fe<g ref="char:EOLhyphen"/>ſtinare praecipitanter,</hi> an headlong haſte; that is, when a man gives himſelf the liberty of ſpeaking <hi>quicquid in buccam venerit,</hi> whatſoever comes next into his thoughts, without premeditation, whether the words, whereby thoſe thoughts muſt be preſented, be proper and acceptable; or no.</p>
+               <pb n="31" facs="tcp:115914:16"/>
+               <p> And therefore in proviſion againſt this vanity of the tongue, it ſeemed good to the Church in all ages to p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>epare Liturgies, and ſet forms of Prayer, by which the devotion of the people of God ſhould be regulated, that their mouths ſhould not be raſh, nor their hearts haſty, to utter any thing before God.</p>
+               <p>That great ſearcher into Antiquity, Mr <hi>Gregory,</hi> hath delivered it unto us from very reverend Autho<g ref="char:EOLhyphen"/>rity, that <hi>Noah</hi> himſelf, while he was in the Ark, uſed a ſet form of Prayer, whereof he gives us the Copie out of an Arabick Manuſcript; and although there be no need to diſtruſt the faith of ſuch a venerable Record; yet we have other evidence for the uſe of forms of Prayer, from unqueſtionable authority.</p>
+               <p>We have the manner of the Temple-ſervice as it was in uſe in our Saviours time, and we find not any where that he took offence at it: Yea, we find that when his Diſciples came to him, and beſought of him that he would teach them to pray, as <hi>John</hi> had taught his Diſciples; He preſcribes them a ſet form: <hi>When ye pray, ſay, Our Father,</hi> &amp;c. <hi>Verba et recitationem cer<g ref="char:EOLhyphen"/>tam praeſcribit,</hi> ſays <hi>Melancton.</hi> Chriſt commands to repeat the very words: <hi>Aliter orare quam Deus docuit non ignorantia ſola eſt, ſed culpa,</hi> ſays St <hi>Cyprian:</hi> To pray otherwiſe then the Lord Chriſt hath taught us, is not only our ignorance, but our ſin: Wherefore (ſays he) My beloved brethren, let us pray as God hath taught us. And accordingly we find in <hi>Ter<g ref="char:EOLhyphen"/>tullian;</hi> It was the manner of the Primitive Chriſti<g ref="char:EOLhyphen"/>ans to begin their Divine Service with the Lords Prayer; <hi>praemiſſa legitimâ &amp; ordinariâ Oratione Domi<g ref="char:EOLhyphen"/>nicâ.</hi> When they had uſed that lawful and ordina<g ref="char:EOLhyphen"/>ry
+<pb n="32" facs="tcp:115914:17"/> prayer which the Lord Chriſt had taught them; then there was, <hi>jus ſuperſtruendi:</hi> A right of building up<g ref="char:EOLhyphen"/>on that foundation: and continuing their divine ſer<g ref="char:EOLhyphen"/>vice according to thoſe Liturgies which were comp<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>led by Saint <hi>Mark</hi> and Saint <hi>James,</hi> as the Eaſtern Church ſtedfaſtly believes: Which Liturgies (as it is ſuppoſed) were afterwards altered by St. <hi>Baſil</hi> and St. <hi>Chryſostom,</hi> and fitted for more publick uſe; and out of which, and the ancient forms in the Weſtern Church, that Liturgy which is eſtabliſhed in this Church of <hi>England,</hi> was collected and compoſed.</p>
+               <p>Prayer is a duty, and every duty is a debt; and debts, you know, muſt be paid in currant money; ſuch as hath the preſent <hi>Caeſars</hi> ſtamp or image upon it: So that for the diſcharge of the duty, and the payment of that debt of prayer, I humbly conceive, the ſafeſt, and the moſt currant, that is, the moſt acceptable Coyn to pay it with, will be in thoſe Prayers which have the ſtamp and impreſſions of the Church of God upon them; I mean in the Confeſſions and Abſolutions, and Collects, and Letanies which are compiled to that purpoſe, and which were preſent, and end in the Name of Chriſt: And when we pay our debt of prayer in the words, and in the Name of Chriſt, I ſee no reaſon we have to doubt of a diſ<g ref="char:EOLhyphen"/>charge, and acquittance of our ſins in the blood of Chriſt Jeſus.</p>
+               <p>There are yet two pieces of the outward man to be prepared and fitted for divine worſhip, which muſt be taken into a ſhort conſideration, leſt I be too much ſtreightned with time for the Points that remain.</p>
+               <p>The two parts or pieces of our outward man are
+<pb n="33" facs="tcp:115914:17"/> the Eye and the Head; and we muſt have an eſpeci<g ref="char:EOLhyphen"/>al regard of theſe.</p>
+               <p>It was the reſolution of a very holy man; 'twas <hi>Job, That he would make a Covenant with his eyes;</hi> he would not allow them that liberty which nature had given them, of wandering upon every pleaſant ob<g ref="char:EOLhyphen"/>ject.</p>
+               <p>And it was the confeſſion of a very holy man: 'twas St. <hi>Auguſt;</hi> that in his younger days, <hi>Intra ſacros pa<g ref="char:EOLhyphen"/>rietes egi negotium procurandi fructus mortis; Even while he was within the Walls of Gods Houſe, his eyes were wandring and luſting, and he was making a bargain for the fruits of death.</hi> Now foraſmuch as the chaſtity of the ſoul is in ſo much danger to be violated and be<g ref="char:EOLhyphen"/>trayed through the treaſon of the eye; it will concern us to joyn with another holy man, with <hi>David</hi> in his Prayer: <hi>Turn away mine eyes from beholding vanity, and quicken thou me in thy waey.</hi>
+               </p>
+               <p>Be pleaſed to receive the reverend Dr. <hi>Hammonds</hi> Paraphraſe upon thoſe words; as if <hi>David</hi> had ſaid, <hi>Lord grant me a ſtrict guard over mine eyes, thoſe inlets of ſo many ſins: Withdraw me from all delight and com<g ref="char:EOLhyphen"/>placency in the wealth and grandeur of the world, on which the luſt of the eye is wont to be placed; turn away my eyes from falſe, frail, and deceitful beauty, which is too apt to kindle impure flames in my breaſt:</hi> And on the contra<g ref="char:EOLhyphen"/>ray, <hi>inſpire into me, and enliven in me all pious and vir<g ref="char:EOLhyphen"/>tuous deſigns.</hi> Such a Prayer as this may well be<g ref="char:EOLhyphen"/>come us, as we are going to the Houſe of God, and when we are entred into it. It were a ſad miſcarri<g ref="char:EOLhyphen"/>age, if we ſhould turn theſe <hi>Oratoria</hi> into <hi>Lupanaria;</hi> the houſe of Prayer into an houſe of ſin; to come hi<g ref="char:EOLhyphen"/>ther
+<pb n="34" facs="tcp:115914:18"/> with a greater deſire to meet a vitious friend, then the holy God; and when we return, to be able to give a better account of the faces and the faſhions of the Congregation, then the parts or points of the Ser<g ref="char:EOLhyphen"/>mon: But I forbea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, becauſe I hope better things of you.</p>
+               <p>And for the full preparation of the outward Man, there remains only a few words concerning his Head. But here I dare preſcribe nothing; age or ſickneſs may make a ſtrong plea againſt a bare-headed pre<g ref="char:EOLhyphen"/>ſence in a Church; eſpecially when the God of mer<g ref="char:EOLhyphen"/>cy is to hear it: But ſuppoſing health and ſtrength, I make ſome queſtion whether a covered head will not be too pregnant an evidence of an irreverent heart. Mr <hi>Cartwright</hi> (who was no good friend to the diſci<g ref="char:EOLhyphen"/>pline of this Church of <hi>England,</hi> yet) in his <hi>Homilie</hi> on our Text, preſſes for reverence in the Houſe of God, by that <hi>argumentum ad hominem,</hi> which his followers have ſo much decryed ſince. The Houſes of God may challenge as much reverence as the Courts of Princes: Who preſumes to enter into the Kings pre<g ref="char:EOLhyphen"/>ſence with his head covered? and if not there, why here?</p>
+               <p>
+                  <hi>Busbequius</hi> tells us, that the Great Turk, when he enters into his Moſques, lays aſide his Robes, and continues in an humble poſture till their manner of Service be finiſhed. I am afraid the reverence which the Jews, and the Heathens, the Eaſtern Chriſtians, and the Turks alſo, declare in their Temples and holy places, will riſe up in judgment againſt ſome amongſt us, who can hear that Sacred Name of Jeſus pronoun<g ref="char:EOLhyphen"/>ced, and yet neither move Hat nor Knee: Who can
+<pb n="35" facs="tcp:115914:18"/> ſit at the Lords Table as familiarly as at their own; Who can uncover their heads when a Pſalm is ſing<g ref="char:EOLhyphen"/>ing, but cover them whiles the Pſalmes and Chap<g ref="char:EOLhyphen"/>ters are reading; Who can allow their ſervants to ſit covered before them in a Church, but not in a Shop. It is the wonder, and the greif of all ſober perſons, that the Chriſtian Religion ſhould produce ſuch croſs leg'd Monſters, ſuch anomalous and unequal practi<g ref="char:EOLhyphen"/>ces; which are ſo far from being evidences of the true fear of God, that they are not conſiſtent with the rules of common civility.</p>
+               <p>And now I have delivered my ſence concerning the reverential deportment of our outward Man in the Houſe of God; which I humbly ſubmit to better judgements, and ſhall chearfully and willingly re<g ref="char:EOLhyphen"/>tract, if any thing hath paſſed from me in any reſpect diſſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nant from prudence or piety.</p>
+               <p>Theſe are the Vanities which I have obſerved in our Divine Service; and I ſhall heartily both wiſh and pray for a Reformation of them. That in our pub<g ref="char:EOLhyphen"/>lick Meetings we appear to God, and the Angels, and to all ſuch who are not yet effectually called, as a Congregation of Chriſtians; and they may ſay of us, <hi>Surely the Lord is among you.</hi>
+               </p>
+               <p>Hitherto I have entertain'd your Chriſtian Atten<g ref="char:EOLhyphen"/>tion with the fruits of the firſt Branch of the Text; and if any one doubt I have been too laviſh of my time in regard of the Parts that remain: I hope I ſhall deceive him. Rouze up your ſelves I beſeech you but a few minutes more, and I ſhall diſmiſs you.</p>
+               <div type="subpart">
+                  <pb n="36" facs="tcp:115914:19"/>
+                  <head>The Second Branch.</head>
+                  <p>I ſuppoſe you remember that I told you, that on this Second Branch we ſhould find the main conſtitu<g ref="char:EOLhyphen"/>ent part of Divine Reverence; and that is, <hi>Obedience to divine Commands.</hi>
+                  </p>
+                  <p>This Obedience hath a double Object.</p>
+                  <p>The Commands of God; and the Commands of the King; for that is another Note in this excellent Sermon of <hi>Solomon:</hi> We have it <hi>Chap.</hi> 8. 2. <hi>I coun<g ref="char:EOLhyphen"/>ſel thee to keep the Kings Commandment, and that in re<g ref="char:EOLhyphen"/>gard of the Oath of God.</hi> Now theſe are to be conſi<g ref="char:EOLhyphen"/>dered apart: And firſt, our obedience to Gods Com<g ref="char:EOLhyphen"/>mands.</p>
+                  <p>Hearing is a Preparatory duty to obeying; we muſt hear that we may learn how to obey: It is im<g ref="char:EOLhyphen"/>poſſible we ſhould conform our lives to the will of God, unleſs we know it.</p>
+                  <p>And that was the reaſon, I ſuppoſe, that St. <hi>Jerom</hi> tranſlated his clauſe thus: <hi>Appropinqua ut audias,</hi> Draw nigh that thou mayſt hear; Sanctifie the Lords holy day in that holy manner, in waiting in holy Or<g ref="char:EOLhyphen"/>dinances, hanging (as it were) upon the lips of ſuch Meſſengers of God, as preſerve Knowledge: But this is not all.</p>
+                  <p>Hearing without a proportionable Obedience will but inflame our reckoning againſt the laſt day: And therefore St. <hi>Hierom</hi> notes upon the Text thus: <hi>Non ingredi in domum Dei, ſed ſine offenſione ingredi, laudis eſt;</hi> The bare duty of entring into the Houſe of God is not praiſe-worthy or acceptable to him; but when
+<pb n="37" facs="tcp:115914:19"/> we enter ſo, as that our conſciences are void of all pur<g ref="char:EOLhyphen"/>poſe of offence towards God, and alſo towards man.</p>
+                  <p>It is conceived by Expoſitors, that <hi>Solomon</hi> in this Branch of his Inſtruction, had obſerved a corrupt hu<g ref="char:EOLhyphen"/>mour that was in his ſubjects, the people of <hi>Iſrael,</hi> that they reſted and contented themſelves with the outward formalities of divine Worſhip: If they came to the Temple of the Lord, and brought their Sacri<g ref="char:EOLhyphen"/>fices as they were commanded in the Law, they thought themſelves religious enough, though they took no care of their lives. When they had ſin'd, and brought their Sacrifice, they conceiv'd this was as much as God did, or could expect from them; and this was the Sacrifice of Fools which is ſpoken of in the Text: and the Prophet <hi>Samuel</hi> had ſo determin'd it in that famous caſe. The Lord layes a ſtrict com<g ref="char:EOLhyphen"/>mand upon <hi>Saul,</hi> to make an utter deſtruction of the <hi>Amalekites;</hi> but he prevaricates, and ſpares ſome of the fatteſt of the Cattel for Sacrifice: But what ſays <hi>Samuel</hi> to him? <hi>Obedience is better then Sacrifice, and to hearken then the fat of Rams;</hi> and that covetous project undid him; within a ſhort time he loſt both his life and Kingdom.</p>
+                  <p>Now let us learn to be wiſe by his Example. Let us take heed we do not delude our poor Souls as the Jews did, by the outward Formalities of Religion. Come to the Houſe of God as often as ye can, but keep your Feet when ye come thither: That is, ac<g ref="char:EOLhyphen"/>cording to <hi>Lorinus,</hi> Keep the Feet of your Soul in a due temper. When ye come hither, be diſpoſed and reſolved to yield to the evidence of the Word of God, to acknowledge that to be ſin, which the Word
+<pb n="38" facs="tcp:115914:20"/> of God condemns for ſin, and to yield that to be a Duty, which by the light of Scripture appears to be ſo. When we come to the Houſe of God, we ſhould be ready to ſay, as the Prophet <hi>Samuel</hi> did, <hi>Speak Lord, for thy Servant heareth:</hi> That is, as <hi>Men<g ref="char:EOLhyphen"/>doza</hi> gloſſes that place, <hi>Speak Lord what thou pleaſeſt, and I am ready, not only to hear, but to obey it.</hi> Such a readineſs appeared in St. <hi>Auguſtine, Da Domine quod jubes, &amp; jube quod vis. O Lord give me grace to obey, and command what thou wilt.</hi>
+                  </p>
+                  <p>And now, ſhall I be ſo bold as to inquire whether the Feet of your Souls be in that obediential poſture as the Lord expects you ſhould be? <hi>Solomon</hi> ſpeaks in general terms in the Text; but it may be expedi<g ref="char:EOLhyphen"/>ent, for your better edification, that I inſtance in ſome few particulars.</p>
+                  <p>Lay the two Tables of the Law of God before you, and examine your ſelves whether ye are hence<g ref="char:EOLhyphen"/>forth reſolved to conform your lives according to thoſe ſacred Rules?</p>
+                  <p>Firſt, art thou reſolved to have no other God but the God of Heaven? Wilt thou no longer ſerve the God of this World, <hi>Mammon,</hi> for the wages of unrighteouſneſs?</p>
+                  <p>Secondly, art thou reſolved never more to diſho<g ref="char:EOLhyphen"/>nour God by worſhipping him in, or before ſome graven Image? Wilt thou never hereafter diſguiſe, and palliate thy Idolatry by a nice diſtinction?</p>
+                  <p>Thirdly, Art thou reſolved that henceforth thou wilt not take the Name of the Lord thy God in vain? Wilt thou not ſwear raſhly and cuſtomarily? Wilt thou not make a falſe Oath in the Courts of Juſtice,
+<pb n="37" facs="tcp:115914:20"/> to take the righteouſneſs of the Righteous from him?</p>
+                  <p>Fourthly, Wilt thou hereafter remember to <hi>Keep holy the Sabbath day?</hi> never mo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e to profane it by idle<g ref="char:EOLhyphen"/>neſs, or drunkneſs, or feaſting, or luxury, or world<g ref="char:EOLhyphen"/>lineſs?</p>
+                  <p>Fiftly, Art thou reſolved henceforth to Honour thy Parents? To Honour the King, as the common Parent of the Country? To Honour the Miniſters of God, who have begotten thee in Chriſt? To Ho<g ref="char:EOLhyphen"/>nour thy natural Parents, who have brought thee in<g ref="char:EOLhyphen"/>to this world, and bred thee up in it in care and ſor<g ref="char:EOLhyphen"/>row?</p>
+                  <p>Sixtly, Art thou reſolved that henceforth thou wilt do no Murther? That thou wilt not take up Arms againſt thy King, and deſtroy thy fellow ſub<g ref="char:EOLhyphen"/>jects, upon the miſtaken quarrel of Religion and Li<g ref="char:EOLhyphen"/>berty?</p>
+                  <p>Seventhly, Art thou reſolved henceforth never to commit Adultery? never more to pollute thy body, which is the Temple of the Holy Ghoſt, by unclean thoughts or actions?</p>
+                  <p>Eightly, A<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t thou reſolved henceforth never to wrong thy neighbour in his goods, neither violently nor fraudulently? Wilt thou not hereafter uſe falſe Dice, nor falſe Weights, nor falſe Meaſures, nor falſe words, nor over-reach thy neighbour in any matter?</p>
+                  <p>Ninethly, Art thou reſolved henceforth never to bear falſe witneſs againſt thy neighbor? Wilt thou not for fear or favour, nor for a bribe, give a falſe teſti<g ref="char:EOLhyphen"/>mony to blind the eyes of the Judge, and to pervert the courſe of Judgement?</p>
+                  <pb n="40" facs="tcp:115914:21"/>
+                  <p> Laſtly, Art thou reſolved never hereafter to covet any thing that is thy neighbours? Wilt thou hereaf<g ref="char:EOLhyphen"/>ter reſtrain thy ſelf from all covetous practices, and labour to be content with ſuch things, as the Lord in a gracious providence ſhall pleaſe to allow and aſsign to thee?</p>
+                  <p>In this Glaſs, in this perfect Mirror, you may ſee whether the feet of your ſouls ſtand right; whether they be waſh'd and cleanſed from all purpoſes and reſolutions to ſin: For let me tell you,</p>
+                  <p>Unleſs ye can ſay with <hi>David,</hi> and ſay truly; <hi>Oh Lord my heart is ready, my heart is ready; I will have reſpect unto all thy Commandments; I am purpoſed that I will not offend:</hi> Unleſs (I ſay) ye are in this ready poſture for holy Obedience, all your prayers, and all your Faſts, and all your days of humiliation, are but the ſacrifice of Fools; they will avail nothing either to remove the guilt of ſin, or to appeaſe the wrath of God.</p>
+                  <p>Let me give you but one Note more in this Point: This reſolution (which I have been ſpeaking of) will be beſt diſcovered by your conſtancy and fer<g ref="char:EOLhyphen"/>vency in prayer, both in private and in publick; for Mercy, in regard ye have tranſgreſſed the Laws of God; and for Grace, that the Lord would incline your hearts to keep them: And therefore it was a pi<g ref="char:EOLhyphen"/>ous proviſion in our Church Liturgy; that after the Miniſter hath repeated the ſeveral Commandments, as from the mouth of God; the whole Congregati<g ref="char:EOLhyphen"/>on are enjoyned to ſay, <hi>Lord have mercy upon us;</hi> in that we have broken thoſe Commandments: <hi>And incline our hearts to keep them;</hi> that is, give us grace to do ſo no more.</p>
+                  <pb n="41" facs="tcp:115914:21"/>
+                  <p> 
+                     <hi>Bucolcerus</hi> tells us of <hi>Henricus Auceps,</hi> one of the Emperours of <hi>Germany,</hi> that when his City of <hi>Merſ<g ref="char:EOLhyphen"/>burg</hi> was aſſaulted by a vaſt Army of the Hungarians, he ſlew and put them to flight, his Souldiers crying out with a loud voice, <hi>Lord have mercy upon us, Lord have mercy upon us.</hi> And truly, I do not know a bet<g ref="char:EOLhyphen"/>ter defence againſt temptation to ſin, then to pray with <hi>David, Oh Lord incline my heart to thy Teſtimo<g ref="char:EOLhyphen"/>nies;</hi> nor a better remedy againſt the guilt of ſin, then to pray with the poor Publican in the Goſpel, <hi>Lord be merciful to me a ſinner.</hi>
+                  </p>
+                  <p>The Feet of our Souls are well kept, when we have taken up a firm reſolution of obeying the Com<g ref="char:EOLhyphen"/>mandements of God; but yet we muſt take one ſtep further.</p>
+                  <p>We muſt keep the Kings Commandment alſo; this is certainly a Duty, however ſome men endeavour to diſtingu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſh themſelves out of it. I counſel thee, ſays <hi>Solomon;</hi> and ſurely the counſel of ſo wiſe a man is worthy to be heard and regarded; as if he had ſaid, I <hi>Solomon,</hi> who require obedience from mine own Subjects, do counſel all Subjects to yield obedience to their Kings: And St. <hi>Paul</hi> delivers the ſame Do<g ref="char:EOLhyphen"/>ctrine: <hi>Let every Soul be ſubject to the Higher Powers, not onely for wrath, but for conſcience ſake.</hi>
+                  </p>
+                  <p>But wherein are the Commands of Kings to be obeyed? Muſt we yield up our ſelves in a blind obe<g ref="char:EOLhyphen"/>dience, to obſerve, and do whatſoever the Higher Powers ſhall impoſe upon us? This is a buſie que<g ref="char:EOLhyphen"/>ſtion, and there is a ſhort anſwer to it: <hi>We muſt either Obey, or Suffer.</hi>
+                  </p>
+                  <p>If the Commands of Kings are conſiſtent with the
+<pb n="42" facs="tcp:115914:22"/> Laws of God, our Obedience is indiſputable; yea, I may ſay, that in that caſe, we do not ſo much obey the King as God: So that the Tryal of our obedience to Kings lyes for the moſt part in ſuch matters, which we call indifferent, which are neither poſitively com<g ref="char:EOLhyphen"/>manded nor forbidden by the Law of God. Such as are matters of Decency and Order in Divine Wor<g ref="char:EOLhyphen"/>ſhip, and ſuch as are of abſolute neceſſity, namely, the payment of Tribute and Cuſtome, for the pre<g ref="char:EOLhyphen"/>ſervation of his Perſon, and his Honour, and his People, and his Kingdome, to boggle at ſuch Com<g ref="char:EOLhyphen"/>mands as theſe, is, (as I am informed from very learned and pious men) a rejection of this counſel of <hi>Solomon,</hi> and that exhortation of St. <hi>Paul</hi> before-mentioned; we may make our ſelves lyable to the wrath of the King, which (as <hi>Solomon</hi> ſays) is, as the roaring of a Lion; yea, we may make our ſelves lya<g ref="char:EOLhyphen"/>ble to that which St. <hi>Paul</hi> terms <hi>[Damnation]</hi> an hea<g ref="char:EOLhyphen"/>vy word, and the Lord incline all our hearts to ſuch a prudent and conſcionable obedience both to his own Commands, and the Kings, that we may never feel the weight of it.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The ſecond general Part.</head>
+               <p>The Caution. <hi>For they conſider not that they do evil.</hi>
+               </p>
+               <p>Have ye yet one minutes patience more? I hope ye have; and indeed there needs not much more for the diſcuſſion of this part.</p>
+               <p>
+                  <hi>Solomon</hi> here points at a palpable, and very dange<g ref="char:EOLhyphen"/>rous piece of Folly: As indeed, what can be more fooliſh, then for a man, when he doth evil, to think he doth well? And what can be more dangerous, then to diſhonour God while we think we ſerve him?
+<pb n="43" facs="tcp:115914:22"/> It is an heavy word that of <hi>Solomon; Who ſo turneth away his ear from hearing the Law, even his Prayer ſhall be an abomination,</hi> Prov. 28. 9. and that is a fea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ful ſtate: Let but a ſinner, againſt Gods and the Kings Commandments, retire into ſome private place, and there ſit down and bethink himſelf, and ſay, <hi>What ſhall I do to be ſaved?</hi> Righteouſneſs I have none, my whole life hath been (as it were) one continued tranſ<g ref="char:EOLhyphen"/>greſsion. I have in an Hypocritical way come often to the Houſe of God, and heard many Sermons, and obſerved many Faſts; but my heart was not right towards God; it went after covetouſneſs; my pre<g ref="char:EOLhyphen"/>tended zeal was cruel and bloody; and I ſerved my ſelf, while I bore the world in hand that I was a ſer<g ref="char:EOLhyphen"/>vant of Chriſts. All my Religion lay in hearing, but I had no obedience: My practice was not conforma<g ref="char:EOLhyphen"/>ble to my pretences; and now what will become of me? Should I betake my ſelf to prayer, and pour out my guilty ſoul in ſupplications; <hi>Solomon</hi> tells me, <hi>That they would be but the Sacrifice of Fools;</hi> that my prayer would be an abomination; that the Lord would caſt it out as a filthy thing: So that I am in great danger to lye under the guilt of ſin, and the wrath of God for ever.</p>
+               <p>Let (I ſay) a ſinner, I mean one that hath been more ready to hear then to obey, but argue his own caſe with his own ſoul, and he will quickly ſee his fol<g ref="char:EOLhyphen"/>ly, and with tears acknowledge that he hath done evil; that there hath been iniquity even in his holy things; and there remaineth nothing for him but a fearful ex<g ref="char:EOLhyphen"/>pectation of vengeance to come.</p>
+               <p>But I would not cloſe my diſcourſe with ſuch a ſad
+<pb n="44" facs="tcp:115914:23"/> note as this; neither dare I tell you, that the yoak of the Chriſtian Religion is eaſier then it is. You have had the Nature of Divine Worſhip repreſented to you, both for the Form and the Matter of it: The Form I place in thoſe Reverential poſtures and ge<g ref="char:EOLhyphen"/>ſtures of the outward Man: The Matter, in an obedi<g ref="char:EOLhyphen"/>ence to divine Commands, and to the Kings, ſo far forth as they are not repugnant to the Laws of God; nor injoin any thing which is unlawful for, or unwor<g ref="char:EOLhyphen"/>thy of a Chriſtian: And I beſeech you to think of it, &amp; by a ſpeedy reſolution for new and better obedience, ſecure and lay in a ſtock of comfort for your poor ſouls againſt the coming of the great Day of the Lord. If hereafter ye ſhall come rightly diſpoſed and prepared to this Houſe of Prayer, the Lord (ac<g ref="char:EOLhyphen"/>cording to his promiſe) will meet you, and bleſs you, and make you joyful in it. He will give you the com<g ref="char:EOLhyphen"/>forts and the graces of his bleſſed Spirit to ſtrengthen and guide you in the way wherein you ſhould go, and at your end, receive you into that other Houſe of his, not made with hands, which is eternal in the Heavens. <hi>For which the Lord of his Mercy prepare us.</hi>
+               </p>
+               <closer>Amen, Amen.</closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="dedication">
+            <pb facs="tcp:115914:23"/>
+            <head>
+               <hi>To the Honou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>able Sir</hi> Chriſtopher Turner, <hi>Knight, One of the BARONS OF HIS Majeſties Exchequer.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>AMong thoſe many mercies which our good God in the happy Reſtoration of his ſacred Majesty, hath poured upon this unworthy Nation; it is look'd upon by ſome pious and judicious perſons as none of the leaſt, yea rather,
+<pb facs="tcp:115914:24"/> as one of the greateſt, that his Maje<g ref="char:EOLhyphen"/>ſty hath placed ſuch Iudges over us, who underſtand both Law and Goſpel, and are able not only to adminiſter Iuſtice and Iudgement to the people in their Ci<g ref="char:EOLhyphen"/>vil Cauſes, but to be guides and examples to them in their devotions and addreſſes to God.</p>
+            <p>It was no ſmall comfort to me, being by the Providence of God called to this ſervice, and directed to this argument, that I found your Lordſhip ſuch a practi<g ref="char:EOLhyphen"/>cal Auditor, recommending my mean diſcourſe to the better conſideration of the people, by your exemplar reverence in the Houſe of God: And I have the ſooner digeſted the Obloquy which was caſt upon theſe weak pieces, when I ſaw the duty which they pointed at (Reve<g ref="char:EOLhyphen"/>rence in Divine Worſhip) was ſo well
+<pb facs="tcp:115914:24"/> known, and ſo evidently performed (be<g ref="char:EOLhyphen"/>ſide your ſelf) by ſo many learned, and pious, and honourable perſons.</p>
+            <p>Many and ſore were the evils which lay upon this Church of <hi>England</hi> in our late troubles; and although our chief <hi>cor<g ref="char:EOLhyphen"/>dolium</hi> aroſe, that we ſee ſome of the fun<g ref="char:EOLhyphen"/>damentals of our Religion undermin'd and ſhaken, it could not but beget ſome ſighs and ſad thoughts in us, to hear the circumſtantials ſo decryed and deſpiſed, as if Divine Worſhip conſiſted only in our hearts and ſpirits, and it had been ſuper<g ref="char:EOLhyphen"/>ſtition in any reſpect to have glorified God with our bodies.</p>
+            <p>It was an ingenuous conceſſion of Mr <hi>Calvin</hi> in the caſe of Ceremonies, that if they were few in number, eaſie to be ob<g ref="char:EOLhyphen"/>ſerved, and clear in their ſignification, they might <hi>juvare rudiorum imperiti<g ref="char:EOLhyphen"/>am,</hi>
+               <pb facs="tcp:115914:25"/> aſſiſt the weakneſs of the ruder ſort of people, and that they would conduce, <hi>Chriſtum illuſtrare,</hi> to make Chriſt better known to them.</p>
+            <p>And certainly the devout and reve<g ref="char:EOLhyphen"/>rend ſervants of God, in the various and humble poſtures and geſtures of their bo<g ref="char:EOLhyphen"/>dies in Divine Worſhip, have no other deſign, but to teſtifie that awful ſence which they have of an extraordinary preſence of God in Holy Aſſemblies, by them to inſtruct and edifie the ignorant, and to prepare them for their more ſo<g ref="char:EOLhyphen"/>lemn approaches to the Throne of grace.</p>
+            <p>It was judiciouſly ſaid by a late learn<g ref="char:EOLhyphen"/>ed man, that reverence was the pale of Religion; if that pale be broken down, the Roes and the Hinds of the field, as <hi>Solomon</hi> calls them, weak and unſtable ſouls will break out, and wander into pro<g ref="char:EOLhyphen"/>faneneſs
+<pb facs="tcp:115914:25"/> and Atheiſm, and in a ſhort time forget that <hi>God</hi> whom they ſee worſhip'd in ſuch a ſleight and homely manner.</p>
+            <p>Wherefore we have cauſe to bleſs the Lord, that notwithſtanding the Sectaries (like wild Boars) were ſo long foraging in his Vineyard which he had planted here amongſt us, and had well neer laid it waſte, by deſtroying the Dreſſers, and rooting out thoſe goodly plants of Order and Decency, and <g ref="char:V">Ʋ</g>niformity, he hath yet preſerved an holy ſeed who know him, and fear him, and come with hearts and bodies to ſanctifie him, at what time, or in what places ſoever they draw neer to him.</p>
+            <p>It is the joy of our hearts, notwith<g ref="char:EOLhyphen"/>ſtanding we live ſo far remote from the Imperial City, to hear of the ſignal re<g ref="char:EOLhyphen"/>verence
+<pb facs="tcp:115914:26"/> of his Sacred Majeſty in ho<g ref="char:EOLhyphen"/>ly Worſhip, and it is our wiſh, that his pious example may have ſuch an influ<g ref="char:EOLhyphen"/>ence upon the Nation, that this Church of <hi>England</hi> which was ſo lately black<g ref="char:EOLhyphen"/>ned by her own inteſtine troubles, may recover her former comelineſs, and be<g ref="char:EOLhyphen"/>come once more a praiſe on the Earth.</p>
+            <p>Our expectations of this happineſs are ſomewhat raiſed, ſince we ſee the E<g ref="char:EOLhyphen"/>piſcopal Chairs, and the Seats of Iudica<g ref="char:EOLhyphen"/>ture fill'd with ſuch eminent perſons, who have given ſo ample teſtimony of their Loyalty to their King, and their con<g ref="char:EOLhyphen"/>ſtancy to their Religion.</p>
+            <p>My Lord, I am a poor ſtranger to you, I had not the happineſs (to my beſt remembrance) ever to ſee your face, till I met you in the Houſe of God, and af<g ref="char:EOLhyphen"/>terward received from your Lordſhip
+<pb facs="tcp:115914:26"/> that more then ſufficient reward, a very candid ſignification of your acceptance of my well-meant labours. And I hum<g ref="char:EOLhyphen"/>bly and heartily congratulate to you your Honour, that by the favour of your Prince, you ſhine in the Orb of Iuſtice, and are ſuch an illuſtrious (and yet be<g ref="char:EOLhyphen"/>nevolent) ſtar in that (Now) glittering Conſtellation.</p>
+            <p>Good luck have you with your Honor, and may you ride on proſperouſly (as you have begun) judging the Tribes of <hi>England</hi> in Truth, and Meekneſs, and Righteouſneſs; and may he, whoſe name is, <hi>The Councellour,</hi> be continu<g ref="char:EOLhyphen"/>ally aſſiſtant to you; may you grow old &amp; honourable in the ſervice of your Country and your King, and your God; and then, when your Change ſhall come, your com<g ref="char:EOLhyphen"/>fort and aſſurance will be ſo much the
+<pb facs="tcp:115914:27"/> greater, that you ſhall be tranſlated and adſcited into the number of thoſe, who ſhall ſit upon Thrones, judging the Tribes of <hi>Iſrael.</hi> Theſe hopes and wiſhes ſhall be conſtantly and fervently ſeconded by the prayers of,</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>your moſt humbly devoted ſervant, <hi>Mich. Thomas.</hi>
+               </signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
